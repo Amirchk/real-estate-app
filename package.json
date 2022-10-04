@@ -1,0 +1,21 @@
+{
+  "name": "real-estate-apiproject",
+  "version": "1.0.0",
+  "description": "show all the apartments in US.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "real-estate-app"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "mongoDb"
+  ],
+  "author": "M Amir Hassan",
+  "license": "ISC"
+}
